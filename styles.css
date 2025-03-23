@@ -193,7 +193,7 @@ body {
     color: white;
   }
 
-  .button {
-      list-style: none;
-      color: black;
+  .button button a {
+    text-decoration: none;
+    color: black;
   }

@@ -192,3 +192,8 @@ body {
     background-color: #556bc4;
     color: white;
   }
+
+  .button {
+      list-style: none;
+      color: black;
+  }
